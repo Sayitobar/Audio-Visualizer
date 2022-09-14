@@ -35,4 +35,4 @@ Change audio file to your one (works only with WAV)
 * Requires some relatively hard-to-install modules
 
 ## Example
-Audioo visualizer of this video was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
+Audio visualizer of this video was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
