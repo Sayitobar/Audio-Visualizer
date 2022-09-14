@@ -33,3 +33,6 @@ Change audio file to your one (works only with WAV)
 ## Cons (These could be optimized)
 * Becomes very RAM intensive, if audio files are longer than 2 minutes.
 * Requires some relatively hard-to-install modules
+
+## Example
+Audioo visualizer of this video was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
