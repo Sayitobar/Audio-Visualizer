@@ -2,7 +2,7 @@
 Takes WAV file and generates visualization as MP4
 You can customize color gradient, number of sound bars, inspect audio file's frequency & volume graphs with pyFFTW & PyQT Graph
 
-### Usage
+## Usage
 Change audio file to your one (works only with WAV)
 `audioFile = "MyAudioFile.wav"`
 
@@ -21,7 +21,15 @@ Change audio file to your one (works only with WAV)
 `win.fill((0, 0, 0))`
 
 
+## Dependencies
+* pygame (to visualize bars & frequencies)
+* numpy (general math stuff)
+* pyfftw (to make fourier analysis of volume graph to get frequency graph, MUCH faster than numpy)
+* pyqtgraph (to plot the frequency & volume graphs)
+* pillow (to create images)
+* moviepy (to create MP4 clip)
 
-### Cons (These could be optimized)
+
+## Cons (These could be optimized)
 * Becomes very RAM intensive, if audio files are longer than 2 minutes.
 * Requires some relatively hard-to-install modules
