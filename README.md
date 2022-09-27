@@ -31,7 +31,7 @@ Change audio file to your one (works only with WAV)
 
 
 ## Cons (These could be optimized)
-* Becomes very RAM intensive, if audio files are longer than 2 minutes.
+* Becomes very RAM intensive, if audio files are longer than 2 minutes. It even gives RAM error sometimes. In that case, it is recommended to split audio file and visualize it in segments.
 * Requires some relatively hard-to-install modules
 
 ## Example
