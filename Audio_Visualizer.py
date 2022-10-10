@@ -23,7 +23,7 @@ w, h = 1920, 1080
 # === Preparation of the audio data (init) === #
 file = wave.open(audioFile, "rb")
 
-data = np.frombuffer(file.readframes(-1), dtype=np.int32)  # int32 could cause an error if file is mono channel / different quality
+data = np.frombuffer(file.readframes(-1), dtype=np.int32)  # int32 could cause an error if file has another bitrate / mono channel / different quality
 n    = file.getnframes()         # array length
 sr   = file.getframerate()       # sample rate (int)
 
