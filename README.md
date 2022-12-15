@@ -9,7 +9,7 @@ Change audio file to your one (works only with WAV)
 #### Optional settings
 ##### If you want to, you can set resolution of video
 `w, h = 1920, 1080`
-##### You can smoothen the audio curve for better visuals (this reduces the distance between maximum and minimum points of frequency magnitudes)
+##### You can apply a filter to the input signal and smoothen the audio curve for better visuals (this reduces the distance between maximum and minimum points of frequency magnitudes)
 `sh *= (1 - (sh/h)**(1./2)) * 3. # 1./2 or 1./8 or 1./312 - n'th root: no limit`
 ##### You can change number of bars
 `datas = visualize(100)   # 100 bars will be drawn`
