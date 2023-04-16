@@ -37,4 +37,5 @@ Change audio file to your one (works only with WAV)
 ## Example
 Audio visualizer of this video was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
 
-[![Audio Visualizer Example]([https://user-images.githubusercontent.com/95364352/232305644-f3f8f182-f41d-4d8b-8a0c-e603ef04e86f.png](https://www.youtube.com/watch?v=N-Rm6iH-QhA)
+[![Little red riding hood](https://i.imgur.com/FZt0nNn.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
