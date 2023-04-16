@@ -6,7 +6,7 @@ You can customize color gradient, number of sound bars, inspect audio file's fre
 Change audio file to your one (works only with WAV)
 `audioFile = "MyAudioFile.wav"`
 
-#### Optional settings
+### Optional settings
 ##### If you want to, you can set resolution of video
 `w, h = 1920, 1080`
 ##### You can apply a filter to the input signal and smoothen the audio curve for better visuals (this reduces the distance between maximum and minimum points of frequency magnitudes)
