@@ -36,3 +36,4 @@ Change audio file to your one (works only with WAV)
 
 ## Example
 Audio visualizer of this video was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
+[![Audio Visualizer Example](https://img.youtube.com/vi/N-Rm6iH-QhA/0.jpg)](https://www.youtube.com/watch?v=N-Rm6iH-QhA)
