@@ -1,4 +1,4 @@
-# Audio-Visualizer
+# Audio-Visualizer (AudiViz)
 Takes WAV file and generates visualization as MP4
 You can customize color gradient, number of sound bars, inspect audio file's frequency & volume graphs with pyFFTW & PyQT Graph
 
@@ -37,5 +37,5 @@ Change audio file to your one (works only with WAV)
 ## Example
 Audio visualizer of this video was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
 
-[![AudioViz](https://i.imgur.com/FZt0nNn.png)](https://youtu.be/N-Rm6iH-QhA "AudioViz - Click to Watch!")
+[![AudiViz](https://i.imgur.com/FZt0nNn.png)](https://youtu.be/N-Rm6iH-QhA "AudiViz - Click to Watch!")
 
