@@ -22,12 +22,12 @@ Change this to your audio file name (works only with WAV) and run the code!
 
 
 ## Dependencies
-* pygame (to visualize bars & frequencies)
-* numpy (general math stuff)
-* pyfftw (to make fourier analysis of volume graph to get frequency graph, MUCH faster than numpy)
-* pyqtgraph (to plot the frequency & volume graphs)
-* pillow (to create images)
-* moviepy (to create MP4 clip)
+* `pygame` (to visualize bars & frequencies)
+* `numpy` (general math stuff)
+* `pyfftw` (to make fourier analysis of volume graph to get frequency graph, MUCH faster than numpy)
+* `pyqtgraph` (to plot the frequency & volume graphs)
+* `pillow` (to create images)
+* `moviepy` (to create MP4 clip)
 
 
 ## Cons (These could be optimized)
