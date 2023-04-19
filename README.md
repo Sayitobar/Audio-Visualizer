@@ -15,7 +15,7 @@ Change this to your audio file name (works only with WAV) and run the code!
 `datas = visualize(100)   # 100 bars will be drawn`
 ##### If you want to see a larger protion of the frequency spectrum, increase f_ratio (min 0.0, max 1.0)
 `f_ratio = 0.2`
-##### You can change update frequency of frequency spectrum to get a smoother video (0.03 is actually perfect. Higher consumes much more RAM)
+##### You can change update frequency of frequency spectrum to get a smoother video (0.03 is actually perfect. Higher values consume more RAM)
 `update_periodicity = 0.03`
 ##### You can change background color of outout video (default: black)
 `win.fill((0, 0, 0))`
