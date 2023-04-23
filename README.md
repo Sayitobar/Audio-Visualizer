@@ -35,7 +35,11 @@ Change this to your audio file name (works only with WAV) and run the code!
 * Requires some relatively hard-to-install modules
 
 ## Example
-Audio visualizer of this video was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
+Audio visualizer of these videos was generated with this code: [Check this music video on YT](https://youtu.be/N-Rm6iH-QhA)
+
+
+https://user-images.githubusercontent.com/95364352/233859909-1888c345-90a8-4791-86c6-b8ac2136dfb4.mp4
+
 
 [![AudiViz](https://i.imgur.com/FZt0nNn.png)](https://youtu.be/N-Rm6iH-QhA "AudiViz - Click to Watch!")
 
